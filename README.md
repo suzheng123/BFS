@@ -12,7 +12,7 @@ lever order:   1 -> 2 -> 3
 post order:    2 -> 3 -> 1
 
 
-N-ary Tree Level Order Trversal (3-ary example): 
+N-ary Tree Level Order Traversal (3-ary example): 
 input: 
 
             1
