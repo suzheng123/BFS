@@ -10,9 +10,13 @@ class Solution:
     """
     @param root: A Tree
     @return: Level order a list of lists of integer
+        1
+       / \
+      2   3  
+
+    1 -> 2 -> 3
     """
     def levelOrder(self, root):
-        # write your code here
         if not root:
             return []
             

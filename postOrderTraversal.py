@@ -10,9 +10,13 @@ class Solution:
     """
     @param root: A Tree
     @return: Postorder in ArrayList which contains node values.
+        1
+       / \
+      2   3  
+
+    2 -> 3 -> 1
     """
     def postorderTraversal(self, root):
-        # write your code here
         if not root:
             return []
         

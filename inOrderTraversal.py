@@ -9,6 +9,12 @@ class Solution:
     """
     @param root: A Tree
     @return: Inorder in ArrayList which contains node values.
+        1
+       / \
+      2   3  
+
+    2 -> 1 -> 3
+
     """
    
     def inorderTraversal(self, root):
